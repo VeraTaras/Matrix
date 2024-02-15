@@ -1,7 +1,5 @@
 # Matrix Operations Application
 
-## Description
-
 This is a simple Windows Forms application for performing matrix operations. It allows users to input matrices, perform various operations, and visualize the results.
 
 ## Features
@@ -15,10 +13,10 @@ This is a simple Windows Forms application for performing matrix operations. It 
 
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/matrix-operations-app.git
+git clone 
 ```
 2. Open in Visual Studio
-3. Open the solution file (`MatrixOperations.sln`) in Visual Studio.
+3. Open the solution file (`Matrix.sln`) in Visual Studio.
 4. Build and run the application using Visual Studio.
 
 ## Usage
