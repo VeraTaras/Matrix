@@ -30,5 +30,5 @@ git clone https://github.com/VeraTaras/Matrix.git
 
 ## Screenshots
 
-![Calculator Screenshot](https://github.com/VeraTaras/HTML-Calculator/blob/main/project.png)
+![Matrix Screenshot](https://github.com/VeraTaras/Matrix/blob/master/project2.png)
 
