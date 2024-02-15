@@ -13,7 +13,7 @@ This is a simple Windows Forms application for performing matrix operations. It 
 
 1. Clone the Repository
 ```
-git clone 
+git clone https://github.com/VeraTaras/Matrix.git
 ```
 2. Open in Visual Studio
 3. Open the solution file (`Matrix.sln`) in Visual Studio.
