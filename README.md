@@ -17,7 +17,7 @@ git clone https://github.com/VeraTaras/Matrix.git
 ```
 2. Open in Visual Studio
 3. Open the solution file (`Matrix.sln`) in Visual Studio.
-4. Build and run the application using Visual Studio.
+4. Build and run the application.
 
 ## Usage
 
